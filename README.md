@@ -1,2 +1,2 @@
 # Hangman-Game
-A hangman game delevoped using PHP
+A hangman game developed using PHP
